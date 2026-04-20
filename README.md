@@ -6,7 +6,7 @@
 
 
     </a> 
-    <a href="https://github.com/GuilhermeSilvaVarjao?tab=repositories">
+    <a href="https://github.com/GuilhermeSilvaVarjao?tab=stars">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
@@ -79,6 +79,10 @@
 </p>
 
 
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
